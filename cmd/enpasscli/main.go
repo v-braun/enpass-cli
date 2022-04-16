@@ -10,11 +10,11 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/hazcod/enpass-cli/pkg/clipboard"
-	"github.com/hazcod/enpass-cli/pkg/enpass"
-	"github.com/hazcod/enpass-cli/pkg/unlock"
 	"github.com/miquella/ask"
 	"github.com/sirupsen/logrus"
+	"github.com/v-braun/enpass-cli/pkg/clipboard"
+	"github.com/v-braun/enpass-cli/pkg/enpass"
+	"github.com/v-braun/enpass-cli/pkg/unlock"
 )
 
 const (
